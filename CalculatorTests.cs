@@ -1,6 +1,6 @@
 ﻿namespace Calculator.Tests
 {
-    [TestFixture] 
+    [TestFixture]
     public class CalculatorTests
     {
         private CalculatorClass _calculator;
